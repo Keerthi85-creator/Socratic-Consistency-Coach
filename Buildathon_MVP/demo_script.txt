@@ -1,0 +1,10 @@
+     Demo script (one-liner prompts to rehearse):
+     1. Start: 'I can't stay consistent with learning to code because I get stuck on big projects.'
+     2. Coach Q: 'What usually stops you after a week?'
+Student: 'I get stuck on the first big project and feel like I'm not good enough.'
+Coach Q: 'How does that feeling usually lead to you stopping?'
+Student: 'It makes me feel overwhelmed, so I quit before I fail.'
+Coach Q: 'When you say overwhelmed, what does that look like in your day?'
+Student: 'It becomes a paralyzing list of impossible tasks.'
+Student (Aha): 'I get it — perfectionism is the blocker. My small step is: 15 minutes on a Python tutorial today.'
+I get it, I need to breakdown the project into parts and make it achievable.
