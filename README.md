@@ -88,6 +88,5 @@ You’ll see the model’s generated response instantly.
 ## 📸 Screenshots
 
 ### Home Page
-![Streamlit Home Page](<img width="2916" height="1708" alt="Screenshot 2025-09-14 at 7 50 31 PM" src="https://github.com/user-attachments/assets/ac710b07-eed9-44e4-83a7-4b6ab7d23a21" />
-)
+![Streamlit Home Page](screenshots/home.png)
 
